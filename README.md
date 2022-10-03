@@ -1,1 +1,1 @@
-# ALgorithms_FCFS_LRU
+# ALgorithms_FIFO_LRU
